@@ -1,0 +1,637 @@
+{
+  "header": {
+    "login": "Sign in",
+    "register": "Register"
+  },
+  "hero": {
+    "badge": {
+      "marketCap": "Market Cap $2.8T",
+      "change": "+5.67%"
+    },
+    "title": {
+      "part1": "Trade Crypto",
+      "part2": "Like a Pro"
+    },
+    "subtitle": "Advanced trading tools, real-time analytics, and institutional-grade security. Start your crypto journey with the platform trusted by millions.",
+    "features": {
+      "security": {
+        "title": "Bank-Grade Security",
+        "desc": "Multi-layer protection"
+      },
+      "speed": {
+        "title": "Lightning Fast",
+        "desc": "Sub-second execution"
+      },
+      "global": {
+        "title": "Global Markets",
+        "desc": "24/7 worldwide access"
+      },
+      "realtime": {
+        "title": "Real-Time Data",
+        "desc": "Live market insights"
+      }
+    },
+    "cta": {
+      "start": "Start Trading",
+      "demo": "Watch Demo"
+    },
+    "stats": {
+      "volume": {
+        "label": "Total Volume",
+        "value": "$12.8B",
+        "change": "+15.2%"
+      },
+      "users": {
+        "label": "Active Users",
+        "value": "2.4M",
+        "change": "+8.7%"
+      },
+      "countries": {
+        "label": "Countries",
+        "value": "150+",
+        "change": "Growing"
+      },
+      "uptime": {
+        "label": "Uptime",
+        "value": "99.99%",
+        "change": "Reliable"
+      }
+    },
+    "dashboard": {
+      "title": "Trading Dashboard",
+      "subtitle": "Real-time market data",
+      "live": "Live",
+      "spotTrading": "Spot Trading",
+      "chart24h": "24H Chart",
+      "balance": "Balance",
+      "pnl": "P&L",
+      "assets": "Assets",
+      "buyCrypto": "Buy Crypto",
+      "portfolio": "Portfolio"
+    },
+    "floating": {
+      "topTrader": "Top Trader"
+    },
+    "news": {
+      "label": "News",
+      "news1": "Bitcoin ETF approval boosts market confidence",
+      "news2": "Major exchange announces new DeFi features",
+      "news3": "Regulatory clarity improves institutional adoption"
+    },
+    "bottom": {
+      "trustedBy": "Trusted by",
+      "availableOn": "Available on",
+      "platforms": "iOS & Android"
+    }
+  },
+  "feed": {
+    "title": "Market Feed",
+    "subtitle": "Advanced Analytics",
+    "live": "LIVE",
+    "updated": "Updated:",
+    "volumeHint": "24h Volume"
+  },
+  "trading": {
+    "badge": "TRADING PLATFORM",
+    "title": {
+      "part1": "DESIGNED FOR",
+      "part2": "SUCCESS"
+    },
+    "subtitle": "Professional-grade trading tools combined with cutting-edge technology. Every feature crafted for optimal performance and trading excellence.",
+    "features": {
+      "smartTrading": {
+        "title": "SMART TRADING",
+        "description": "AI-powered algorithms and automated trading strategies to maximize your portfolio returns with intelligent market analysis."
+      },
+      "enterpriseSecurity": {
+        "title": "ENTERPRISE SECURITY",
+        "description": "Military-grade encryption with biometric authentication and insurance protection for complete peace of mind."
+      },
+      "instantExecution": {
+        "title": "INSTANT EXECUTION",
+        "description": "Ultra-low latency trading with our next-generation infrastructure ensuring your orders execute in microseconds."
+      },
+      "zeroCommission": {
+        "title": "ZERO COMMISSION",
+        "description": "Trade with zero fees on stocks and ETFs. Premium features with competitive rates and cashback rewards program."
+      },
+      "expertSupport": {
+        "title": "EXPERT SUPPORT",
+        "description": "24/7 dedicated trading experts available via chat, phone, and video calls with personalized investment guidance."
+      },
+      "worldwideMarkets": {
+        "title": "WORLDWIDE MARKETS",
+        "description": "Access to 100+ global exchanges with real-time data, cross-platform trading, and multi-currency support."
+      }
+    },
+    "cta": "Start Trading Today"
+  },
+  "market": {
+    "loading": "Loading market data...",
+    "badge": "LIVE MARKET FEED",
+    "title": "Real-Time Market Intelligence",
+    "subtitle": "Stay ahead with live cryptocurrency prices and market movements updated every 15 seconds.",
+    "lastUpdate": "Last updated",
+    "refresh": "Refresh",
+    "currentPrice": "CURRENT PRICE",
+    "change24h": "24H CHANGE",
+    "marketCap": "MARKET CAP",
+    "volume": "24H VOLUME",
+    "stats": {
+      "updates": {
+        "value": "15s",
+        "label": "Update Frequency"
+      },
+      "accuracy": {
+        "value": "99.9%",
+        "label": "Data Accuracy"
+      },
+      "sources": {
+        "value": "100+",
+        "label": "Data Sources"
+      }
+    }
+  },
+  "footer": {
+    "brandName": "TokenShift",
+    "description": "TokenShift is the most trusted cryptocurrency trading platform, offering advanced tools and top-tier security. Our mission is to create the best trading experience and give our clients the freedom to trade without limitations.",
+    "company": {
+      "title": "Company",
+      "aboutUs": "About Us",
+      "security": "Security"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
+    },
+    "support": {
+      "title": "Support",
+      "helpCenter": "Help Center",
+      "contactUs": "Contact Us"
+    },
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "documentation": "Documentation"
+    },
+    "regulatory": {
+      "tradingName": "is the trading name of",
+      "regulated": "which is regulated by the",
+      "authority": "Seychelles Financial Services Authority (FSA)",
+      "withLicense": "with Securities Dealer's license number",
+      "riskWarning": {
+        "title": "Risk Warning:",
+        "text": "Trading Forex and CFDs carries a high level of risk to your capital and you should only trade with money you can afford to lose. Trading Forex and CFDs may not be suitable for all investors."
+      },
+      "tradeExecution": "Trade execution, pricing, speed, and account access may be affected by a variety of factors including market volatility, order size and type, trading volume, and system performance. During periods of high market activity or limited system availability, delays in account access and trade execution may occur. Investors should be aware of these risks and plan accordingly when placing trades.",
+      "ageRequirement": "You must be 18 years old, or of legal age as determined in your country."
+    },
+    "copyright": "© 2025 TokenShift All rights reserved.",
+    "systemStatus": {
+      "operational": "All systems operational",
+      "status": "System Status"
+    }
+  },
+   "about": {
+    "backToHome": "Back to Home",
+    "badge": "About Us",
+    "title": "Building a fair crypto future",
+    "subtitle": "We’re a small team exploring transparent tools for trading, custody, and education—so anyone can navigate digital assets with confidence.",
+    "mission": {
+      "title": "Our Mission",
+      "body1": "Demystify crypto with human-friendly design and robust engineering.",
+      "body2": "From self-custody to analytics, we focus on practical features that actually help you trade and learn."
+    },
+    "whyCrypto": {
+      "title": "Why Crypto",
+      "points": {
+        "security": {
+          "title": "Security by design",
+          "body": "Private keys, smart contract audits, and sane defaults to keep you safe."
+        },
+        "openAccess": {
+          "title": "Open access",
+          "body": "Borderless value transfer and permissionless participation."
+        },
+        "innovation": {
+          "title": "Relentless innovation",
+          "body": "New primitives like L2s, account abstraction, and restaking unlock fresh ideas."
+        }
+      }
+    },
+    "values": {
+      "title": "Values We Stand By",
+      "lead": "What guides our decisions every day.",
+      "items": {
+        "transparency": { "title": "Transparency", "body": "Clear fees, open docs, honest roadmaps." },
+        "performance": { "title": "Performance", "body": "Fast UIs, reliable APIs, and smooth charts." },
+        "education": { "title": "Education", "body": "Explain concepts simply, with examples." },
+        "security": { "title": "Security", "body": "Ship safely, audit often, defend users first." }
+      }
+    },
+    "tech": {
+      "title": "Technology",
+      "lead": "A pragmatic stack focused on resilience and clarity.",
+      "items": {
+        "chains": { "title": "Multi-chain", "body": "Support for major L1s/L2s with sensible defaults." },
+        "security": { "title": "Defense-in-depth", "body": "Hardening, monitoring, and least-privilege everywhere." },
+        "analytics": { "title": "Analytics", "body": "Readable insights, not noise—so you can act quickly." },
+        "global": { "title": "Global-ready", "body": "Localization, fiat on-ramps, and compliance-aware flows." }
+      }
+    },
+    "footnote": "This page contains placeholder copy for demonstration. Replace it with your own brand story."
+  },
+  "security": {
+    "backToHome": "Back to Home",
+    "badge": "Security",
+    "title": "Security-first crypto infrastructure",
+    "subtitle": "We combine layered defenses, pragmatic custody options, and transparent operations to protect your digital assets.",
+    "pillars": {
+      "defenseInDepth": {
+        "title": "Defense in depth",
+        "body": "Multiple safeguards—network hardening, WAF, rate limiting, and strict isolation across critical services."
+      },
+      "encryption": {
+        "title": "Modern encryption",
+        "body": "TLS in transit, envelope encryption at rest, and strong key rotation aligned with industry guidance."
+      },
+      "monitoring": {
+        "title": "Monitoring & alerts",
+        "body": "Real-time detections for anomalies, integrity checks, and actionable incident playbooks."
+      },
+      "keyManagement": {
+        "title": "Key management",
+        "body": "Separation of duties, least privilege, and explicit approvals for sensitive key operations."
+      },
+      "globalCompliance": {
+        "title": "Global readiness",
+        "body": "Localization and policy-aware flows that support varied regional requirements."
+      },
+      "risk": {
+        "title": "Risk controls",
+        "body": "Withdrawal allowlists, velocity limits, and behavior analysis to reduce fraud and mistakes."
+      }
+    },
+    "custody": {
+      "title": "Custody & control",
+      "lead": "Choose between non-custodial and assisted models without sacrificing safety.",
+      "points": {
+        "nonCustodial": "Non-custodial by default—your keys, your coins.",
+        "multiSig": "Multi-signature support for team-controlled wallets.",
+        "hardware": "Hardware wallet compatibility for cold storage."
+      }
+    },
+    "operations": {
+      "title": "Secure operations",
+      "lead": "Security isn’t a feature; it’s a process we practice daily.",
+      "points": {
+        "codeReviews": "Mandatory code reviews and continuous testing.",
+        "audits": "Independent audits for critical components.",
+        "incident": "Clear incident response, postmortems, and fast patches."
+      }
+    },
+    "footnote": "This page uses placeholder text. Replace with your own security policies and procedures."
+  },
+  "terms": {
+    "backToHome": "Back to Home",
+    "badge": "Terms of Service",
+    "title": "Terms & Conditions",
+    "subtitle": "Please read these terms carefully before using our crypto services.",
+    "sections": {
+      "intro": {
+        "title": "Introduction",
+        "body": "By accessing or using our platform, you agree to abide by these Terms of Service. If you do not agree, you may not use the platform."
+      },
+      "privacy": {
+        "title": "Privacy",
+        "body": "We respect your privacy and handle data according to our Privacy Policy. No unnecessary tracking or selling of your information."
+      },
+      "usage": {
+        "title": "Acceptable Use",
+        "points": {
+          "legal": "You must comply with all applicable laws and regulations.",
+          "fair": "Use the platform in good faith, without exploiting vulnerabilities.",
+          "restrictions": "Do not engage in fraud, money laundering, or prohibited financial activities."
+        }
+      },
+      "liability": {
+        "title": "Liability",
+        "body": "We strive for uptime and accuracy, but we do not guarantee uninterrupted service or error-free operation. Users are responsible for their trading decisions."
+      },
+      "disclaimer": {
+        "title": "Disclaimer",
+        "body": "Cryptocurrency involves risk. Prices can fluctuate, and you may lose capital. Nothing here constitutes financial advice."
+      }
+    },
+    "footnote": "This page contains placeholder Terms of Service. Replace with your actual legal content."
+  },
+   "privacy": {
+    "backToHome": "Back to Home",
+    "badge": "Privacy",
+    "title": "Privacy Policy",
+    "subtitle": "We only collect what’s needed to provide a secure crypto experience.",
+    "cards": {
+      "data": {
+        "title": "Data We Collect",
+        "items": {
+          "account": "Account info (email, locale, basic settings).",
+          "usage": "Basic usage metrics to keep things fast and reliable.",
+          "blockchain": "On-chain addresses you connect or interact with."
+        }
+      },
+      "use": {
+        "title": "How We Use Data",
+        "items": {
+          "service": "Deliver core features and account functionality.",
+          "security": "Detect abuse and keep accounts safe.",
+          "improvement": "Fix bugs and improve performance."
+        }
+      },
+      "choices": {
+        "title": "Your Choices",
+        "items": {
+          "access": "Request a copy of certain data.",
+          "delete": "Ask us to delete certain data (where applicable).",
+          "export": "Export supported data formats."
+        },
+        "note": "Your options may vary by region and applicable law."
+      }
+    },
+    "footnote": "This page is a simplified privacy summary. Replace with your actual policy.",
+    "lastUpdated": "Last updated: Aug 2025"
+  },
+  "cookies": {
+    "backToHome": "Back to Home",
+    "badge": "Cookies",
+    "title": "Cookie Policy",
+    "subtitle": "We use minimal cookies to operate our crypto platform and improve performance.",
+    "cards": {
+      "types": {
+        "title": "Types of Cookies",
+        "items": {
+          "essential": "Essential: required for login, security, and core features.",
+          "analytics": "Analytics: aggregate usage to fix bugs and improve.",
+          "preferences": "Preferences: remember settings like language or theme."
+        }
+      },
+      "use": {
+        "title": "How We Use Them",
+        "items": {
+          "security": "Keep sessions secure and prevent abuse.",
+          "performance": "Measure latency and errors to enhance stability.",
+          "features": "Enable convenience features and remember choices."
+        }
+      },
+      "choices": {
+        "title": "Your Choices",
+        "items": {
+          "acceptAll": "Accept all cookies.",
+          "reject": "Reject non-essential cookies.",
+          "manage": "Manage preferences at any time."
+        },
+        "note": "Some features may not work without essential cookies."
+      }
+    },
+    "footnote": "This page is placeholder content. Replace with your actual cookie policy.",
+    "lastUpdated": "Last updated: Aug 2025"
+  },
+  "help": {
+    "backToHome": "Back to Home",
+    "badge": "Help",
+    "title": "Help Center",
+    "subtitle": "Quick answers for account, wallets, and trading on our crypto platform.",
+    "cards": {
+      "gettingStarted": {
+        "title": "Getting Started",
+        "items": {
+          "createAccount": "Create an account and complete basic profile.",
+          "verifyEmail": "Verify your email to secure your login.",
+          "connectWallet": "Connect a wallet or create a new one."
+        }
+      },
+      "security": {
+        "title": "Account & Security",
+        "items": {
+          "twoFA": "Enable 2FA for stronger protection.",
+          "resetPassword": "Reset a forgotten password safely.",
+          "phishing": "Recognize phishing and report suspicious messages."
+        }
+      },
+      "funds": {
+        "title": "Wallet & Funds",
+        "items": {
+          "deposit": "Deposit with supported networks and tokens.",
+          "withdraw": "Withdraw to verified addresses only.",
+          "fees": "Understand network fees and processing times."
+        }
+      },
+      "trading": {
+        "title": "Trading",
+        "items": {
+          "placeOrder": "Place market or limit orders.",
+          "orderTypes": "Learn order types and when to use them.",
+          "slippage": "Manage slippage and price impact."
+        }
+      },
+      "troubleshoot": {
+        "title": "Troubleshooting",
+        "items": {
+          "pageNotLoading": "Page not loading? Clear cache and retry.",
+          "failedTx": "Failed transaction? Check gas, nonce, and network.",
+          "wrongNetwork": "Wrong network? Switch RPC or chain in your wallet."
+        }
+      },
+      "contact": {
+        "title": "Contact Support",
+        "items": {
+          "email": "Email us at support@example.com.",
+          "docs": "Read product docs and guides.",
+          "status": "Check the status page for incidents."
+        },
+        "note": "Responses vary by volume and region—thanks for your patience."
+      }
+    },
+    "footnote": "This page includes placeholder guidance. Replace with your support processes and links.",
+    "lastUpdated": "Last updated: Aug 2025"
+  },
+  "contact": {
+    "backToHome": "Back to Home",
+    "badge": "Contact",
+    "title": "Contact Us",
+    "subtitle": "Reach our team for support, docs, and general inquiries.",
+    "cards": {
+      "support": {
+        "title": "Support Channels",
+        "items": {
+          "email": "Email: support@example.com",
+          "ticket": "Open a support ticket in your dashboard.",
+          "status": "Check system status for incidents and maintenance."
+        }
+      },
+      "docs": {
+        "title": "Docs & Resources",
+        "items": {
+          "docs": "Product documentation and API references.",
+          "guides": "Step-by-step guides for common tasks.",
+          "community": "Community tips and FAQs."
+        }
+      },
+      "office": {
+        "title": "Office & Hours",
+        "items": {
+          "hours": "Mon–Fri, 09:00–18:00 (UTC)",
+          "location": "Tbilisi, Georgia — remote-first",
+          "response": "Typical response time: 24–48 hours"
+        }
+      }
+    },
+    "form": {
+      "title": "Send a message",
+      "name": "Your name",
+      "email": "Your email",
+      "topic": "Topic",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "footnote": "This page includes placeholder contact info. Replace with your real channels and addresses.",
+    "lastUpdated": "Last updated: Aug 2025"
+  },
+  "blog": {
+    "backToHome": "Back to Home",
+    "badge": "Blog",
+    "title": "Insights & Updates",
+    "subtitle": "Short reads on crypto security, trading, and product news.",
+    "readMore": "Read more",
+    "posts": {
+      "post1": {
+        "date": "Aug 2025",
+        "tag": "Security",
+        "title": "Crypto Security Basics: Keys, Wallets, and Common Scams",
+        "excerpt": "Private keys, seed phrases, and hardware wallets—here’s how to avoid the most common pitfalls when you’re getting started."
+      },
+      "post2": {
+        "date": "Aug 2025",
+        "tag": "L2",
+        "title": "Layer-2s Explained: Cheaper Transactions Without the Noise",
+        "excerpt": "Rollups, validiums, and bridges in plain language—what they change and how to move funds safely."
+      },
+      "post3": {
+        "date": "Aug 2025",
+        "tag": "DeFi",
+        "title": "A Quick DeFi Risk Checklist Before You Click ‘Approve’",
+        "excerpt": "Contract age, audits, liquidity, and admin keys—four things to check in under a minute."
+      }
+    },
+    "footnote": "These posts are placeholders. Replace with your real content and slugs.",
+    "lastUpdated": "Last updated: Aug 2025"
+  },
+"registration": {
+  "backToHome": "Back to Home",
+  "title": "Create your account",
+  "subtitle": "Join us and start your journey",
+  "loading": "Loading...",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+  "fields": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "phone": "Phone",
+    "country": "Country",
+    "language": "Language",
+    "dateOfBirth": "Date of birth"
+  },
+
+  "placeholders": {
+    "firstName": "Enter your first name",
+    "lastName": "Enter your last name",
+    "email": "Enter your email",
+    "username": "Choose a username",
+    "password": "Create a password",
+    "phone": "Enter your phone number",
+    "country": "Select your country",
+    "language": "Select your language",
+    "dateOfBirth": "YYYY-MM-DD"
+  },
+
+  "errors": {
+    "firstNameRequired": "First name is required",
+    "invalidFirstName": "Please enter a valid first name",
+    "lastNameRequired": "Last name is required",
+    "invalidLastName": "Please enter a valid last name",
+    "emailRequired": "Email is required",
+    "invalidEmail": "Please enter a valid email address",
+    "usernameRequired": "Username is required",
+    "invalidUsername": "Username must be 3–20 characters (letters, numbers, underscores)",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 8 characters",
+    "phoneRequired": "Phone number is required",
+    "invalidPhone": "Please enter a valid phone number",
+    "countryRequired": "Country is required",
+    "languageRequired": "Language is required",
+    "dateOfBirthRequired": "Date of birth is required",
+    "ageRestriction": "You must be at least 18 years old",
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Please try again."
+  },
+
+  "createAccount": "Create Account",
+  "alreadyHaveAccount": "Already have an account?",
+  "signIn": "Sign In",
+
+  "rightSide": {
+    "title": "Why join us?",
+    "benefits": {
+      "benefit1": "Powerful tools to grow your sales",
+      "benefit2": "Secure and privacy-first platform",
+      "benefit3": "Real-time insights and reports",
+      "benefit4": "Friendly support whenever you need it"
+    },
+    "stats": {
+      "stat1": { "value": "10k+", "label": "Active users" },
+      "stat2": { "value": "99.9%", "label": "Uptime" },
+      "stat3": { "value": "24/7", "label": "Support" }
+    }
+  }
+}
+,
+ "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to your account",
+    "backHome": "Back to Home",
+    "fields": {
+      "emailOrUsername": "Email or Username",
+      "password": "Password"
+    },
+    "placeholders": {
+      "emailOrUsername": "Enter your email or username",
+      "password": "Enter your password"
+    },
+    "rememberMe": "Remember me",
+    "signInButton": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "errors": {
+      "emailOrUsernameRequired": "Email or username is required",
+      "emailOrUsernameTooShort": "Email or username must be at least 3 characters",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "pleaseFixErrors": "Please fix the errors above",
+      "invalidCredentials": "Invalid email/username or password",
+      "tooManyAttempts": "Too many login attempts. Please try again later",
+      "serverError": "Server error. Please try again later",
+      "loginFailed": "Login failed. Please try again",
+      "authRedirectFailed": "Authentication redirect failed",
+      "network": "Network error. Please check your connection",
+       "incorrect": {
+      "emailOrUsername": "Email or username isn't correct.",
+      "password": "Password isn't correct."
+    }
+    }
+  }
+}

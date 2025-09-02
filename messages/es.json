@@ -1,0 +1,556 @@
+{
+  "header": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse"
+  },
+  "hero": {
+    "badge": {
+      "marketCap": "Cap. Mercado $2.8T",
+      "change": "+5.67%"
+    },
+    "title": {
+      "part1": "Opera Cripto",
+      "part2": "Como un Pro"
+    },
+    "subtitle": "Herramientas de trading avanzadas, análisis en tiempo real y seguridad de grado institucional. Comienza tu viaje cripto con la plataforma confiada por millones.",
+    "features": {
+      "security": {
+        "title": "Seguridad Bancaria",
+        "desc": "Protección multicapa"
+      },
+      "speed": {
+        "title": "Ultrarrápido",
+        "desc": "Ejecución subsegundo"
+      },
+      "global": {
+        "title": "Mercados Globales",
+        "desc": "Acceso mundial 24/7"
+      },
+      "realtime": {
+        "title": "Datos en Tiempo Real",
+        "desc": "Información de mercado en vivo"
+      }
+    },
+    "cta": {
+      "start": "Comenzar Trading",
+      "demo": "Ver Demo"
+    },
+    "stats": {
+      "volume": {
+        "label": "Volumen Total",
+        "value": "$12.8B",
+        "change": "+15.2%"
+      },
+      "users": {
+        "label": "Usuarios Activos",
+        "value": "2.4M",
+        "change": "+8.7%"
+      },
+      "countries": {
+        "label": "Países",
+        "value": "150+",
+        "change": "Creciendo"
+      },
+      "uptime": {
+        "label": "Tiempo Activo",
+        "value": "99.99%",
+        "change": "Confiable"
+      }
+    },
+    "dashboard": {
+      "title": "Panel de Trading",
+      "subtitle": "Datos de mercado en tiempo real",
+      "live": "En Vivo",
+      "spotTrading": "Trading Spot",
+      "chart24h": "Gráfico 24H",
+      "balance": "Balance",
+      "pnl": "G&P",
+      "assets": "Activos",
+      "buyCrypto": "Comprar Cripto",
+      "portfolio": "Cartera"
+    },
+    "floating": {
+      "topTrader": "Top Trader"
+    },
+    "news": {
+      "label": "Noticias",
+      "news1": "La aprobación del ETF de Bitcoin impulsa la confianza del mercado",
+      "news2": "Exchange principal anuncia nuevas características DeFi",
+      "news3": "La claridad regulatoria mejora la adopción institucional"
+    },
+    "bottom": {
+      "trustedBy": "Confiado por",
+      "availableOn": "Disponible en",
+      "platforms": "iOS y Android"
+    }
+  },
+  "feed": {
+    "title": "Flujo de Mercado",
+    "subtitle": "Analítica Avanzada",
+    "live": "EN VIVO",
+    "updated": "Actualizado:",
+    "volumeHint": "Volumen 24h"
+  },
+  "trading": {
+      "badge": "PLATAFORMA DE TRADING",
+      "title": {
+        "part1": "DISEÑADO PARA EL",
+        "part2": "ÉXITO"
+      },
+      "subtitle": "Herramientas de trading de grado profesional combinadas con tecnología de vanguardia. Cada característica diseñada para un rendimiento óptimo y excelencia comercial.",
+      "features": {
+        "smartTrading": {
+          "title": "TRADING INTELIGENTE",
+          "description": "Algoritmos impulsados por IA y estrategias de trading automatizadas para maximizar los retornos de tu cartera con análisis inteligente del mercado."
+        },
+        "enterpriseSecurity": {
+          "title": "SEGURIDAD EMPRESARIAL",
+          "description": "Cifrado de grado militar con autenticación biométrica y protección de seguros para completa tranquilidad."
+        },
+        "instantExecution": {
+          "title": "EJECUCIÓN INSTANTÁNEA",
+          "description": "Trading de ultra baja latencia con nuestra infraestructura de próxima generación que garantiza que tus órdenes se ejecuten en microsegundos."
+        },
+        "zeroCommission": {
+          "title": "CERO COMISIÓN",
+          "description": "Opera sin tarifas en acciones y ETFs. Características premium con tarifas competitivas y programa de recompensas en efectivo."
+        },
+        "expertSupport": {
+          "title": "SOPORTE EXPERTO",
+          "description": "Expertos en trading dedicados 24/7 disponibles por chat, teléfono y videollamadas con orientación de inversión personalizada."
+        },
+        "worldwideMarkets": {
+          "title": "MERCADOS MUNDIALES",
+          "description": "Acceso a más de 100 intercambios globales con datos en tiempo real, trading multiplataforma y soporte multicmoneda."
+        }
+      },
+      "cta": "Comienza a Operar Hoy"
+    },
+    "market": {
+    "loading": "Cargando datos del mercado...",
+    "badge": "FEED DE MERCADO EN VIVO",
+    "title": "Inteligencia de Mercado en Tiempo Real",
+    "subtitle": "Mantente adelante con precios de criptomonedas en vivo y movimientos del mercado actualizados cada 15 segundos.",
+    "lastUpdate": "Última actualización",
+    "refresh": "Actualizar",
+    "currentPrice": "PRECIO ACTUAL",
+    "change24h": "CAMBIO 24H",
+    "marketCap": "CAP. MERCADO",
+    "volume": "VOLUMEN 24H",
+    "stats": {
+      "updates": {
+        "value": "15s",
+        "label": "Frecuencia de Actualización"
+      },
+      "accuracy": {
+        "value": "99.9%",
+        "label": "Precisión de Datos"
+      },
+      "sources": {
+        "value": "100+",
+        "label": "Fuentes de Datos"
+      }
+    }
+  },
+  "footer": {
+    "brandName": "TokenShift",
+    "description": "TokenShift es la plataforma de trading de criptomonedas más confiable, que ofrece herramientas avanzadas y seguridad de primer nivel. Nuestra misión es crear la mejor experiencia de trading y brindar a nuestros clientes la libertad de operar sin limitaciones.",
+    "company": {
+      "title": "Empresa",
+      "aboutUs": "Acerca de Nosotros",
+      "security": "Seguridad"
+    },
+    "terms": {
+      "title": "Términos de Servicio",
+      "termsOfService": "Términos de Servicio",
+      "privacyPolicy": "Política de Privacidad",
+      "cookiePolicy": "Política de Cookies"
+    },
+    "support": {
+      "title": "Soporte",
+      "helpCenter": "Centro de Ayuda",
+      "contactUs": "Contáctanos"
+    },
+    "resources": {
+      "title": "Recursos",
+      "blog": "Blog",
+      "documentation": "Documentación"
+    },
+    "regulatory": {
+      "tradingName": "es el nombre comercial de",
+      "regulated": "que está regulada por la",
+      "authority": "Autoridad de Servicios Financieros de Seychelles (FSA)",
+      "withLicense": "con licencia de Distribuidor de Valores número",
+      "riskWarning": {
+        "title": "Advertencia de Riesgo:",
+        "text": "El trading de Forex y CFDs conlleva un alto nivel de riesgo para su capital y solo debe operar con dinero que pueda permitirse perder. El trading de Forex y CFDs puede no ser adecuado para todos los inversores."
+      },
+      "tradeExecution": "La ejecución de operaciones, precios, velocidad y acceso a la cuenta pueden verse afectados por una variedad de factores que incluyen volatilidad del mercado, tamaño y tipo de orden, volumen de trading y rendimiento del sistema. Durante períodos de alta actividad del mercado o disponibilidad limitada del sistema, pueden ocurrir retrasos en el acceso a la cuenta y ejecución de operaciones. Los inversores deben estar conscientes de estos riesgos y planificar en consecuencia al realizar operaciones.",
+      "ageRequirement": "Debe tener 18 años de edad, o la edad legal determinada en su país."
+    },
+    "copyright": "© 2025 TokenShift Todos los derechos reservados.",
+    "systemStatus": {
+      "operational": "Todos los sistemas operativos",
+      "status": "Estado del Sistema"
+    }
+  },
+  "security": {
+    "backToHome": "Volver al inicio",
+    "badge": "Seguridad",
+    "title": "Infraestructura cripto con seguridad primero",
+    "subtitle": "Combinamos defensas en capas, opciones de custodia pragmáticas y operaciones transparentes para proteger tus activos digitales.",
+    "pillars": {
+      "defenseInDepth": {
+        "title": "Defensa en profundidad",
+        "body": "Múltiples salvaguardas: endurecimiento de red, WAF, limitación de tasa y aislamiento estricto entre servicios críticos."
+      },
+      "encryption": {
+        "title": "Cifrado moderno",
+        "body": "TLS en tránsito, cifrado de envoltura en reposo y rotación sólida de claves alineada con las guías del sector."
+      },
+      "monitoring": {
+        "title": "Monitoreo y alertas",
+        "body": "Detecciones en tiempo real de anomalías, verificaciones de integridad y runbooks accionables para incidentes."
+      },
+      "keyManagement": {
+        "title": "Gestión de claves",
+        "body": "Separación de funciones, mínimo privilegio y aprobaciones explícitas para operaciones sensibles con claves."
+      },
+      "globalCompliance": {
+        "title": "Preparado para el mundo",
+        "body": "Flujos localizados y conscientes de políticas que soportan requisitos regionales variados."
+      },
+      "risk": {
+        "title": "Controles de riesgo",
+        "body": "Listas permitidas de retiros, límites de velocidad y análisis de comportamiento para reducir fraude y errores."
+      }
+    },
+    "custody": {
+      "title": "Custodia y control",
+      "lead": "Elige entre modelos no custodiales y asistidos sin sacrificar la seguridad.",
+      "points": {
+        "nonCustodial": "No custodial por defecto: tus claves, tus coins.",
+        "multiSig": "Soporte de multifirma para billeteras de equipo.",
+        "hardware": "Compatibilidad con hardware wallets para almacenamiento en frío."
+      }
+    },
+    "operations": {
+      "title": "Operaciones seguras",
+      "lead": "La seguridad no es una función; es un proceso diario.",
+      "points": {
+        "codeReviews": "Revisiones de código obligatorias y pruebas continuas.",
+        "audits": "Auditorías independientes para componentes críticos.",
+        "incident": "Respuesta a incidentes clara, postmortems y parches rápidos."
+      }
+    },
+    "footnote": "Esta página usa texto de ejemplo. Sustitúyelo por tus propias políticas y procedimientos de seguridad."
+  },
+  "terms": {
+    "backToHome": "Volver al inicio",
+    "badge": "Términos del servicio",
+    "title": "Términos y Condiciones",
+    "subtitle": "Lee atentamente estos términos antes de usar nuestros servicios cripto.",
+    "sections": {
+      "intro": {
+        "title": "Introducción",
+        "body": "Al acceder o utilizar nuestra plataforma aceptas cumplir estos Términos del Servicio. Si no estás de acuerdo, no podrás utilizar la plataforma."
+      },
+      "privacy": {
+        "title": "Privacidad",
+        "body": "Respetamos tu privacidad y tratamos los datos según nuestra Política de Privacidad. No realizamos seguimiento innecesario ni vendemos tu información."
+      },
+      "usage": {
+        "title": "Uso aceptable",
+        "points": {
+          "legal": "Debes cumplir todas las leyes y regulaciones aplicables.",
+          "fair": "Utiliza la plataforma de buena fe, sin explotar vulnerabilidades.",
+          "restrictions": "No incurras en fraude, lavado de dinero ni actividades financieras prohibidas."
+        }
+      },
+      "liability": {
+        "title": "Responsabilidad",
+        "body": "Nos esforzamos por ofrecer disponibilidad y precisión, pero no garantizamos servicio ininterrumpido ni operación libre de errores. Eres responsable de tus decisiones de trading."
+      },
+      "disclaimer": {
+        "title": "Descargo de responsabilidad",
+        "body": "Las criptomonedas conllevan riesgo. Los precios pueden fluctuar y podrías perder capital. Nada aquí constituye asesoramiento financiero."
+      }
+    },
+    "footnote": "Esta página contiene términos de ejemplo. Sustitúyelos por tu contenido legal real."
+  },
+  "privacy": {
+    "backToHome": "Volver al inicio",
+    "badge": "Privacidad",
+    "title": "Política de privacidad",
+    "subtitle": "Solo recopilamos lo necesario para ofrecerte una experiencia cripto segura.",
+    "cards": {
+      "data": {
+        "title": "Datos que recopilamos",
+        "items": {
+          "account": "Información de la cuenta (correo, idioma, ajustes básicos).",
+          "usage": "Métricas básicas de uso para mantener velocidad y fiabilidad.",
+          "blockchain": "Direcciones on-chain con las que conectas o interactúas."
+        }
+      },
+      "use": {
+        "title": "Cómo usamos los datos",
+        "items": {
+          "service": "Prestar funciones esenciales y la gestión de tu cuenta.",
+          "security": "Detectar abusos y mantener las cuentas seguras.",
+          "improvement": "Corregir errores y mejorar el rendimiento."
+        }
+      },
+      "choices": {
+        "title": "Tus opciones",
+        "items": {
+          "access": "Solicitar una copia de ciertos datos.",
+          "delete": "Pedirnos borrar ciertos datos (cuando aplique).",
+          "export": "Exportar formatos de datos compatibles."
+        },
+        "note": "Tus opciones pueden variar por región y legislación aplicable."
+      }
+    },
+    "footnote": "Esta página es un resumen de privacidad simplificado. Sustitúyelo por tu política real.",
+    "lastUpdated": "Última actualización: agosto de 2025"
+  },
+   "cookies": {
+    "backToHome": "Volver al inicio",
+    "badge": "Cookies",
+    "title": "Política de cookies",
+    "subtitle": "Usamos cookies mínimas para operar la plataforma cripto y mejorar el rendimiento.",
+    "cards": {
+      "types": {
+        "title": "Tipos de cookies",
+        "items": {
+          "essential": "Esenciales: necesarias para el inicio de sesión, la seguridad y funciones básicas.",
+          "analytics": "Analíticas: uso agregado para corregir errores y mejorar.",
+          "preferences": "Preferencias: recordar idioma, tema u otras opciones."
+        }
+      },
+      "use": {
+        "title": "Cómo las usamos",
+        "items": {
+          "security": "Mantener seguras las sesiones y prevenir abusos.",
+          "performance": "Medir latencia y errores para mejorar la estabilidad.",
+          "features": "Habilitar funciones de comodidad y recordar elecciones."
+        }
+      },
+      "choices": {
+        "title": "Tus opciones",
+        "items": {
+          "acceptAll": "Aceptar todas las cookies.",
+          "reject": "Rechazar las no esenciales.",
+          "manage": "Gestionar preferencias en cualquier momento."
+        },
+        "note": "Algunas funciones pueden no funcionar sin cookies esenciales."
+      }
+    },
+    "footnote": "Este contenido es de ejemplo. Sustitúyelo por tu política real de cookies.",
+    "lastUpdated": "Última actualización: agosto de 2025"
+  },
+  "help": {
+    "backToHome": "Volver al inicio",
+    "badge": "Ayuda",
+    "title": "Centro de ayuda",
+    "subtitle": "Respuestas rápidas sobre cuenta, billeteras y trading en nuestra plataforma cripto.",
+    "cards": {
+      "gettingStarted": {
+        "title": "Primeros pasos",
+        "items": {
+          "createAccount": "Crea una cuenta y completa el perfil básico.",
+          "verifyEmail": "Verifica tu correo para asegurar el inicio de sesión.",
+          "connectWallet": "Conecta una billetera o crea una nueva."
+        }
+      },
+      "security": {
+        "title": "Cuenta y seguridad",
+        "items": {
+          "twoFA": "Activa el 2FA para una protección más fuerte.",
+          "resetPassword": "Restablece de forma segura una contraseña olvidada.",
+          "phishing": "Reconoce el phishing y reporta mensajes sospechosos."
+        }
+      },
+      "funds": {
+        "title": "Billetera y fondos",
+        "items": {
+          "deposit": "Deposita con redes y tokens compatibles.",
+          "withdraw": "Retira solo a direcciones verificadas.",
+          "fees": "Comprende comisiones de red y tiempos de procesamiento."
+        }
+      },
+      "trading": {
+        "title": "Trading",
+        "items": {
+          "placeOrder": "Realiza órdenes de mercado o límite.",
+          "orderTypes": "Aprende los tipos de orden y cuándo usarlos.",
+          "slippage": "Gestiona el slippage y el impacto en el precio."
+        }
+      },
+      "troubleshoot": {
+        "title": "Solución de problemas",
+        "items": {
+          "pageNotLoading": "¿La página no carga? Borra la caché y vuelve a intentar.",
+          "failedTx": "¿Transacción fallida? Revisa gas, nonce y red.",
+          "wrongNetwork": "¿Red incorrecta? Cambia el RPC o la cadena en tu billetera."
+        }
+      },
+      "contact": {
+        "title": "Contactar soporte",
+        "items": {
+          "email": "Escríbenos a support@example.com.",
+          "docs": "Lee la documentación y las guías del producto.",
+          "status": "Consulta la página de estado para ver incidentes."
+        },
+        "note": "Los tiempos de respuesta varían según volumen y región; gracias por tu paciencia."
+      }
+    },
+    "footnote": "Esta página contiene contenido de ejemplo. Sustitúyelo por tus procesos y enlaces reales de soporte.",
+    "lastUpdated": "Última actualización: agosto de 2025"
+  },
+   "contact": {
+    "backToHome": "Volver al inicio",
+    "badge": "Contacto",
+    "title": "Contáctanos",
+    "subtitle": "Comunícate con nuestro equipo para soporte, documentación y consultas generales.",
+    "cards": {
+      "support": {
+        "title": "Canales de soporte",
+        "items": {
+          "email": "Correo: support@example.com",
+          "ticket": "Abre un ticket de soporte desde tu panel.",
+          "status": "Consulta el estado del sistema para incidentes y mantenimiento."
+        }
+      },
+      "docs": {
+        "title": "Docs y recursos",
+        "items": {
+          "docs": "Documentación del producto y referencias de API.",
+          "guides": "Guías paso a paso para tareas comunes.",
+          "community": "Consejos de la comunidad y preguntas frecuentes."
+        }
+      },
+      "office": {
+        "title": "Oficina y horario",
+        "items": {
+          "hours": "Lun–Vie, 09:00–18:00 (UTC)",
+          "location": "Tbilisi, Georgia — remote-first",
+          "response": "Tiempo de respuesta típico: 24–48 horas"
+        }
+      }
+    },
+    "form": {
+      "title": "Enviar un mensaje",
+      "name": "Tu nombre",
+      "email": "Tu correo",
+      "topic": "Tema",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    },
+    "footnote": "Esta página contiene información de contacto de ejemplo. Sustitúyela por tus canales y direcciones reales.",
+    "lastUpdated": "Última actualización: agosto de 2025"
+  },
+   "registration": {
+  "backToHome": "Volver al inicio",
+  "title": "Crea tu cuenta",
+  "subtitle": "Únete y comienza tu camino",
+  "loading": "Cargando…",
+  "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña",
+
+  "fields": {
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "email": "Correo electrónico",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "phone": "Teléfono",
+    "country": "País",
+    "language": "Idioma",
+    "dateOfBirth": "Fecha de nacimiento"
+  },
+
+  "placeholders": {
+    "firstName": "Introduce tu nombre",
+    "lastName": "Introduce tus apellidos",
+    "email": "Introduce tu correo electrónico",
+    "username": "Elige un nombre de usuario",
+    "password": "Crea una contraseña",
+    "phone": "Introduce tu número de teléfono",
+    "country": "Selecciona tu país",
+    "language": "Selecciona tu idioma",
+    "dateOfBirth": "AAAA-MM-DD"
+  },
+
+  "errors": {
+    "firstNameRequired": "El nombre es obligatorio",
+    "invalidFirstName": "Introduce un nombre válido",
+    "lastNameRequired": "Los apellidos son obligatorios",
+    "invalidLastName": "Introduce apellidos válidos",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "invalidEmail": "Introduce un correo electrónico válido",
+    "usernameRequired": "El nombre de usuario es obligatorio",
+    "invalidUsername": "El nombre de usuario debe tener entre 3 y 20 caracteres (letras, números y guiones bajos)",
+    "passwordRequired": "La contraseña es obligatoria",
+    "passwordLength": "La contraseña debe tener al menos 8 caracteres",
+    "phoneRequired": "El teléfono es obligatorio",
+    "invalidPhone": "Introduce un número de teléfono válido",
+    "countryRequired": "El país es obligatorio",
+    "languageRequired": "El idioma es obligatorio",
+    "dateOfBirthRequired": "La fecha de nacimiento es obligatoria",
+    "ageRestriction": "Debes tener al menos 18 años",
+    "generic": "Algo salió mal. Inténtalo de nuevo.",
+    "network": "Error de red. Inténtalo de nuevo."
+  },
+
+  "createAccount": "Crear cuenta",
+  "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "signIn": "Iniciar sesión",
+
+  "rightSide": {
+    "title": "¿Por qué unirte?",
+    "benefits": {
+      "benefit1": "Herramientas potentes para impulsar tus ventas",
+      "benefit2": "Plataforma segura y centrada en la privacidad",
+      "benefit3": "Información y reportes en tiempo real",
+      "benefit4": "Soporte amable siempre que lo necesites"
+    },
+    "stats": {
+      "stat1": { "value": "10k+", "label": "Usuarios activos" },
+      "stat2": { "value": "99,9%", "label": "Disponibilidad" },
+      "stat3": { "value": "24/7", "label": "Soporte" }
+    }
+  }
+}
+,
+   "login": {
+    "title": "Bienvenido de Vuelta",
+    "subtitle": "Inicia sesión en tu cuenta",
+    "backHome": "Volver al Inicio",
+    "fields": {
+      "emailOrUsername": "Correo o Nombre de Usuario",
+      "password": "Contraseña"
+    },
+    "placeholders": {
+      "emailOrUsername": "Ingresa tu correo o nombre de usuario",
+      "password": "Ingresa tu contraseña"
+    },
+    "rememberMe": "Recordarme",
+    "signInButton": "Iniciar Sesión",
+    "signingIn": "Iniciando sesión...",
+    "noAccount": "¿No tienes una cuenta?",
+    "createAccount": "Crear Cuenta",
+    "errors": {
+      "emailOrUsernameRequired": "El correo o nombre de usuario es obligatorio",
+      "emailOrUsernameTooShort": "El correo o nombre de usuario debe tener al menos 3 caracteres",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+      "pleaseFixErrors": "Por favor corrige los errores anteriores",
+      "invalidCredentials": "Correo/nombre de usuario o contraseña incorrectos",
+      "tooManyAttempts": "Demasiados intentos de inicio de sesión. Inténtalo más tarde",
+      "serverError": "Error del servidor. Inténtalo más tarde",
+      "loginFailed": "Error al iniciar sesión. Inténtalo de nuevo",
+      "authRedirectFailed": "Falló la redirección de autenticación",
+      "network": "Error de conexión. Verifica tu conexión a internet"
+    }
+  }
+}
