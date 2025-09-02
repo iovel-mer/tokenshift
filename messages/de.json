@@ -153,8 +153,7 @@
     }
   },
   "footer": {
-    "brandName": "TokenShift",
-    "description": "TokenShift ist die vertrauenswürdigste Kryptowährungs-Handelsplattform, die fortschrittliche Tools und erstklassige Sicherheit bietet. Unsere Mission ist es, das beste Handelserlebnis zu schaffen und unseren Kunden die Freiheit zu geben, ohne Einschränkungen zu handeln.",
+    "description": "ist die vertrauenswürdigste Kryptowährungs-Handelsplattform, die fortschrittliche Tools und erstklassige Sicherheit bietet. Unsere Mission ist es, das beste Handelserlebnis zu schaffen und unseren Kunden die Freiheit zu geben, ohne Einschränkungen zu handeln.",
     "company": {
       "title": "Unternehmen",
       "aboutUs": "Über Uns",
@@ -188,7 +187,7 @@
       "tradeExecution": "Handelsausführung, Preisgestaltung, Geschwindigkeit und Kontozugang können durch verschiedene Faktoren beeinflusst werden, einschließlich Marktvolatilität, Ordergröße und -typ, Handelsvolumen und Systemleistung. Während Zeiten hoher Marktaktivität oder begrenzter Systemverfügbarkeit können Verzögerungen beim Kontozugang und der Handelsausführung auftreten. Anleger sollten sich dieser Risiken bewusst sein und entsprechend planen, wenn sie Geschäfte platzieren.",
       "ageRequirement": "Sie müssen 18 Jahre alt sein oder das in Ihrem Land bestimmte gesetzliche Alter erreicht haben."
     },
-    "copyright": "© 2025 TokenShift Alle Rechte vorbehalten.",
+    "copyright": "Alle Rechte vorbehalten.",
     "systemStatus": {
       "operational": "Alle Systeme betriebsbereit",
       "status": "Systemstatus"

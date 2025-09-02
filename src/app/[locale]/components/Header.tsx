@@ -12,6 +12,7 @@ export default function Header() {
   const t = useTranslations('header');
   const locale = useLocale();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const projectName = process.env.NEXT_PUBLIC_BASE_NAME;
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -32,7 +33,6 @@ export default function Header() {
           <Link
             href={`/`}
             className="group/logo relative inline-flex items-center gap-2 sm:gap-4"
-            aria-label="TokenShift home"
             onClick={closeMobileMenu}
           >
            
@@ -49,11 +49,9 @@ export default function Header() {
             <div className="flex flex-col">
               <span className="text-xl sm:text-2xl font-black tracking-tight transition-all duration-300 group-hover/logo:tracking-wide">
                 <span className="bg-gradient-to-r from-white via-slate-100 to-white bg-clip-text text-transparent transition-all duration-300 group-hover/logo:from-indigo-200 group-hover/logo:to-purple-200">
-                  Token
+                 {projectName}
                 </span>
-                <span className="bg-gradient-to-r from-indigo-400 via-purple-400 to-fuchsia-400 bg-clip-text text-transparent transition-all duration-300 group-hover/logo:from-indigo-300 group-hover/logo:via-purple-300 group-hover/logo:to-fuchsia-300">
-                  Shift
-                </span>
+             
               </span>
               <div className="h-0.5 w-0 bg-gradient-to-r from-indigo-400 to-fuchsia-400 transition-all duration-500 group-hover/logo:w-full" />
             </div>

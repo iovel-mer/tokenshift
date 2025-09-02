@@ -153,8 +153,8 @@
     }
   },
   "footer": {
-    "brandName": "TokenShift",
-    "description": "TokenShift is the most trusted cryptocurrency trading platform, offering advanced tools and top-tier security. Our mission is to create the best trading experience and give our clients the freedom to trade without limitations.",
+    
+    "description": " is the most trusted cryptocurrency trading platform, offering advanced tools and top-tier security. Our mission is to create the best trading experience and give our clients the freedom to trade without limitations.",
     "company": {
       "title": "Company",
       "aboutUs": "About Us",
@@ -188,7 +188,7 @@
       "tradeExecution": "Trade execution, pricing, speed, and account access may be affected by a variety of factors including market volatility, order size and type, trading volume, and system performance. During periods of high market activity or limited system availability, delays in account access and trade execution may occur. Investors should be aware of these risks and plan accordingly when placing trades.",
       "ageRequirement": "You must be 18 years old, or of legal age as determined in your country."
     },
-    "copyright": "© 2025 TokenShift All rights reserved.",
+    "copyright": " All rights reserved.",
     "systemStatus": {
       "operational": "All systems operational",
       "status": "System Status"

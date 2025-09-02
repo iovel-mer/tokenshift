@@ -153,8 +153,7 @@
     }
   },
   "footer": {
-    "brandName": "TokenShift",
-    "description": "TokenShift es la plataforma de trading de criptomonedas más confiable, que ofrece herramientas avanzadas y seguridad de primer nivel. Nuestra misión es crear la mejor experiencia de trading y brindar a nuestros clientes la libertad de operar sin limitaciones.",
+    "description": "es la plataforma de trading de criptomonedas más confiable, que ofrece herramientas avanzadas y seguridad de primer nivel. Nuestra misión es crear la mejor experiencia de trading y brindar a nuestros clientes la libertad de operar sin limitaciones.",
     "company": {
       "title": "Empresa",
       "aboutUs": "Acerca de Nosotros",
@@ -188,7 +187,7 @@
       "tradeExecution": "La ejecución de operaciones, precios, velocidad y acceso a la cuenta pueden verse afectados por una variedad de factores que incluyen volatilidad del mercado, tamaño y tipo de orden, volumen de trading y rendimiento del sistema. Durante períodos de alta actividad del mercado o disponibilidad limitada del sistema, pueden ocurrir retrasos en el acceso a la cuenta y ejecución de operaciones. Los inversores deben estar conscientes de estos riesgos y planificar en consecuencia al realizar operaciones.",
       "ageRequirement": "Debe tener 18 años de edad, o la edad legal determinada en su país."
     },
-    "copyright": "© 2025 TokenShift Todos los derechos reservados.",
+    "copyright": "Todos los derechos reservados.",
     "systemStatus": {
       "operational": "Todos los sistemas operativos",
       "status": "Estado del Sistema"

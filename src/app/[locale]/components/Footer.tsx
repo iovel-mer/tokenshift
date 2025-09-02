@@ -8,6 +8,7 @@ const Footer = () => {
     const locale = useLocale();
     const t = useTranslations('footer');
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+     const projectName = process.env.NEXT_PUBLIC_BASE_NAME;
     
     const toggleMobileMenu = () => {
         setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -46,18 +47,16 @@ const Footer = () => {
                             <div className="flex flex-col ">
                                 <span className="text-xl sm:text-2xl font-black tracking-tight transition-all duration-300 group-hover/logo:tracking-wide ">
                                     <span className="bg-gradient-to-r from-white via-slate-100 to-white bg-clip-text text-transparent transition-all duration-300 group-hover/logo:from-indigo-200 group-hover/logo:to-purple-200">
-                                        Token
+                                        {projectName}
                                     </span>
-                                    <span className="bg-gradient-to-r from-indigo-400 via-purple-400 to-fuchsia-400 bg-clip-text text-transparent transition-all duration-300 group-hover/logo:from-indigo-300 group-hover/logo:via-purple-300 group-hover/logo:to-fuchsia-300 ">
-                                        Shift
-                                    </span>
+                                    
                                 </span>
                                 <div className="h-0.5 w-0 bg-gradient-to-r from-indigo-400 to-fuchsia-400 transition-all duration-500 group-hover/logo:w-full" />
                             </div>
                         </Link>
                         
                         <p className="text-slate-300 leading-relaxed mb-6 max-w-md">
-                            {t('description')}
+                           {projectName} {t('description')}
                         </p>
                         
                     
@@ -177,7 +176,7 @@ const Footer = () => {
                     <div className="bg-gradient-to-r from-slate-800/30 to-slate-700/30 rounded-2xl p-6 border border-slate-600/20 backdrop-blur-sm">
                         <div className="space-y-4 text-sm text-slate-300 leading-relaxed">
                             <p>
-                                <span className="text-white font-medium">{t('brandName')}</span> {t('regulatory.tradingName')}{' '}
+                                <span className="text-white font-medium">{projectName}</span> {t('regulatory.tradingName')}{' '}
                                 <span className="text-blue-300">Raw Trading Ltd</span>, {t('regulatory.regulated')}{' '}
                                 <span className="text-blue-300">{t('regulatory.authority')}</span> {t('regulatory.withLicense')}{' '}
                                 <span className="text-blue-300 font-mono">SD016</span>.
@@ -208,7 +207,7 @@ const Footer = () => {
                 {/* Bottom Bar */}
                 <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-slate-700/50">
                     <div className="text-slate-400 text-sm mb-4 md:mb-0">
-                        {t('copyright')}
+                      © {new Date().getFullYear()} {projectName}  {t('copyright')}
                     </div>
                     
                     <div className="flex items-center space-x-6 text-sm">
