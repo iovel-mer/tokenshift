@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowLeft, Cookie as CookieIcon, Settings, BarChart3 } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Cookie() {
   const t = useTranslations("cookies");
@@ -88,6 +89,7 @@ export default function Cookie() {
             <p className="mt-2 text-center text-xs text-white/60">{t("lastUpdated")}</p>
           </div>
         </section>
+        <Footer/>
       </main>
     </>
   );

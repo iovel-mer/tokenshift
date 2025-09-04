@@ -6,6 +6,7 @@ import { ArrowLeft, Shield, Sparkles, Coins, Globe2 } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import Header from "../../components/Header";
 import Link from "next/link";
+import Footer from "../../components/Footer";
 
 export default function About() {
   const t = useTranslations("about");
@@ -197,6 +198,7 @@ export default function About() {
             <p className="text-center text-white/80">{t("footnote")}</p>
           </div>
         </section>
+        <Footer/>
       </main>
     </>
   );

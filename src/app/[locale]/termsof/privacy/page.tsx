@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowLeft, Database, Lock, UserCheck } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Privacy() {
   const t = useTranslations("privacy");
@@ -85,6 +86,7 @@ export default function Privacy() {
           <p className="mt-2 text-center text-xs text-white/60">{t("lastUpdated")}</p>
         </div>
       </section>
+      <Footer/>
     </main>
     </>
   );

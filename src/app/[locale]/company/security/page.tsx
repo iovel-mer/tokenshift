@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowLeft, ShieldCheck, Lock, Eye, Globe2, KeyRound, FileWarning } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Security() {
   const t = useTranslations("security");
@@ -118,6 +119,7 @@ export default function Security() {
           <p className="text-center text-white/80">{t("footnote")}</p>
         </div>
       </section>
+      <Footer/>
     </main>
     </>
   );

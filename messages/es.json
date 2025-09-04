@@ -551,5 +551,27 @@
       "authRedirectFailed": "Falló la redirección de autenticación",
       "network": "Error de conexión. Verifica tu conexión a internet"
     }
+  },
+  "docs": {
+    "backToHome": "Volver al inicio",
+    "title": "Documentación",
+    "blockchain": {
+      "title": "Seguridad en Blockchain",
+      "text": "Aprende cómo la cadena de bloques garantiza transparencia, inmutabilidad y seguridad en tus transacciones."
+    },
+    "popular": {
+      "title": "Criptomonedas más populares",
+      "bitcoin": "La primera y más reconocida criptomoneda, a menudo llamada oro digital."
+    },
+    "buy": {
+      "title": "Cómo comprar criptomonedas",
+      "step1": "Elige un exchange confiable y crea una cuenta.",
+      "step2": "Verifica tu identidad y deposita fondos para empezar a comprar."
+    },
+    "tips": {
+      "title": "Consejos útiles",
+      "tip1": "Guarda tus criptos en una billetera segura, no solo en los exchanges.",
+      "tip2": "Diversifica tus inversiones y nunca inviertas más de lo que puedas permitirte perder."
+    }
   }
 }

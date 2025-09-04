@@ -14,6 +14,7 @@ import {
   Mail
 } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Help() {
   const t = useTranslations("help");
@@ -136,6 +137,7 @@ export default function Help() {
             <p className="mt-2 text-center text-xs text-white/60">{t("lastUpdated")}</p>
           </div>
         </section>
+        <Footer/>
       </main>
     </>
   );

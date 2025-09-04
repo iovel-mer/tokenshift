@@ -16,6 +16,7 @@ import {
 } from "lucide-react";
 import Header from "../../components/Header";
 import Link from "next/link";
+import Footer from "../../components/Footer";
 
 export default function Contact() {
   const t = useTranslations("contact");
@@ -166,6 +167,7 @@ export default function Contact() {
             <p className="mt-2 text-center text-xs text-white/60">{t("lastUpdated")}</p>
           </div>
         </section>
+        <Footer/>
       </main>
     </>
   );

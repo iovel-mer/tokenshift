@@ -555,5 +555,27 @@
   },
   "navigation": {
     "backHome": "Zurück zur Startseite"
+  },
+  "docs": {
+    "backToHome": "Zurück zur Startseite",
+    "title": "Dokumentation",
+    "blockchain": {
+      "title": "Blockchain-Sicherheit",
+      "text": "Erfahre, wie die Blockchain Transparenz, Unveränderlichkeit und Sicherheit für deine Transaktionen gewährleistet."
+    },
+    "popular": {
+      "title": "Beliebteste Kryptowährungen",
+      "bitcoin": "Die erste und bekannteste Kryptowährung, oft als digitales Gold bezeichnet."
+    },
+    "buy": {
+      "title": "Wie man Krypto kauft",
+      "step1": "Wähle eine vertrauenswürdige Börse und erstelle ein Konto.",
+      "step2": "Verifiziere deine Identität und lade dein Konto auf, um mit dem Kauf zu beginnen."
+    },
+    "tips": {
+      "title": "Tipps vom Profi",
+      "tip1": "Bewahre deine Kryptos immer in einer sicheren Wallet auf, nicht nur an Börsen.",
+      "tip2": "Diversifiziere deine Investitionen und investiere nie mehr, als du verlieren kannst."
+    }
   }
 }

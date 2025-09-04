@@ -633,5 +633,27 @@
       "password": "Password isn't correct."
     }
     }
+  },
+   "docs": {
+    "backToHome": "Back to Home",
+    "title": "Documentation",
+    "blockchain": {
+      "title": "Blockchain Security",
+      "text": "Learn how blockchain ensures transparency, immutability, and security for your transactions."
+    },
+    "popular": {
+      "title": "Most Popular Cryptocurrencies",
+      "bitcoin": "The first and most widely recognized cryptocurrency, often called digital gold."
+    },
+    "buy": {
+      "title": "How to Buy Crypto",
+      "step1": "Choose a trusted exchange and create an account.",
+      "step2": "Verify your identity and fund your account to start buying."
+    },
+    "tips": {
+      "title": "Pro Tips",
+      "tip1": "Always store your crypto in a secure wallet, not just on exchanges.",
+      "tip2": "Diversify your investments and never invest more than you can afford to lose."
+    }
   }
 }

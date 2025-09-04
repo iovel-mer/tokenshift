@@ -6,6 +6,7 @@ import { useRouter, useParams } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowLeft, CalendarDays, Tag as TagIcon } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function BlogPost() {
   const t = useTranslations("blog");
@@ -75,6 +76,7 @@ export default function BlogPost() {
             </div>
           </article>
         </section>
+        <Footer/>
       </main>
     </>
   );

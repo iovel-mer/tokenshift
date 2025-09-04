@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowLeft, FileText, ShieldCheck, Scale, Handshake, AlertTriangle } from "lucide-react";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Terms() {
   const t = useTranslations("terms");
@@ -91,6 +92,7 @@ export default function Terms() {
           <p className="text-center text-white/80">{t("footnote")}</p>
         </div>
       </section>
+      <Footer/>
     </main>
     </>
   );
